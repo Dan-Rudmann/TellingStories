@@ -5,3 +5,7 @@
 ![bob](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-bob-dylan-f1e9093b-a9b8-4924-9d32-325cece7c662.jpg?resize=1800)
 
 {{< video https://www.youtube.com/embed/MjtPBjEz-BA?si=phMSZg_IeLQfECNs >}}
+
+They say every man can be replaced.
+
+**they say every distance is not near**

@@ -24,7 +24,7 @@
     "href": "summary.html",
     "title": "2  Summary",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2\n\n\n\nI Shall Be Released I Shall Be Released References 1  Introduction Preface 1  Introduction 2  Summary References 3  I Shall Be Released 2  Summary\n\n\n2  Summary – I Shall Be Released 2  Summary – I Shall Be Released 2  Summary – I Shall Be Released I Shall Be Released",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
     ]
@@ -44,7 +44,17 @@
     "href": "any.html",
     "title": "3  I Shall Be Released",
     "section": "",
-    "text": "3.1 by Bob Dylan\nembed an image:\nembed a video:",
+    "text": "3.1 by Bob Dylan\nThey say every man can be replaced.\nthey say every distance is not near",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>I Shall Be Released</span>"
+    ]
+  },
+  {
+    "objectID": "any.html#by-bob-dylan",
+    "href": "any.html#by-bob-dylan",
+    "title": "3  I Shall Be Released",
+    "section": "",
+    "text": "bob",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>I Shall Be Released</span>"
     ]
